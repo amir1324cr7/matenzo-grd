@@ -511,4 +511,6 @@ end
 our_id = 0
 now = os.time()
 math.randomseed(now)
-started = false
+started = falsesudo_users = {110626080,103649648,111020322,0,tonumber(amir_cratin
+)},--Sudo users
+    disabled_channels = {},.
